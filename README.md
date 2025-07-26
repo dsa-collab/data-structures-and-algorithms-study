@@ -40,9 +40,9 @@
 
 | Content | Ryan | Thiago |
 | :--- | :--- | :--- |
-| Asymptotic Notations | ❌ | ⏳ |
-| General Concepts(Stack, Heap, ADT, Time and Space Complexity) | ❌ | ❌ |
-| Recursion | ❌ | ❌ |
+| Asymptotic Notations | ❌ | ✅ |
+| General Concepts(Stack, Heap, ADT, Time and Space Complexity) | ❌ | ✅ |
+| Recursion | ❌ | ⏳ |
 | Arrays Representations | ❌ | ❌ |
 | Array ADT | ❌ | ❌ |
 | Strings | ❌ | ❌ |
